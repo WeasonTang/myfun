@@ -21,9 +21,8 @@ features:
   - title: caterpillar
     icon: 🐛
     details: The caterpillar molts not once, but many times—to outgrow itself, not its past.
-  - title: cocoon
-    icon: 
-      src: /img/cocoon.svg
+  - icon: 🤿
+    title: cocoon  
     details: The cocoon is not a prison—it’s where the caterpillar weaves its courage into colors.
   - title: cocoon-break
     icon: 🦋
