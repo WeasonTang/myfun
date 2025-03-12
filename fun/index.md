@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "weason's fun"
+  # name: "weason's fun"
   text: "just for fun"
-  tagline: My great project tagline
+  # tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
@@ -13,13 +13,20 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: Linux基础
+      link: /linux/linux命令
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: caterpillar
+    icon: 🐛
+    details: The caterpillar molts not once, but many times—to outgrow itself, not its past.
+  - title: cocoon
+    icon: 
+      src: /img/cocoon.svg
+    details: The cocoon is not a prison—it’s where the caterpillar weaves its courage into colors.
+  - title: cocoon-break
+    icon: 🦋
+    details: The only way to grow is to embrace discomfort.
 ---
 
