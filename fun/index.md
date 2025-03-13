@@ -7,7 +7,7 @@ hero:
   # text: "just for fun"
   # tagline: My great project tagline
   image:
-    src: /img/bc.png
+    src: /bc.png
 
   actions:
     - theme: alt
@@ -23,16 +23,16 @@ hero:
 features:
   - title: caterpillar
     icon: 
-      src: /img/caterpillar.png
+      src: /caterpillar.png
     details: The caterpillar molts not once, but many times—to outgrow itself, not its past.
     link: /linux/linux命令
   - icon: 
-      src: /img/cocoon.png
+      src: /cocoon.png
     title: cocoon  
     details: The cocoon is not a prison—it’s where the caterpillar weaves its courage into colors.
   - title: cocoon-break
     icon: 
-      src: /img/butterfly.png
+      src: /butterfly.png
     details: The only way to grow is to embrace discomfort.
 ---
 

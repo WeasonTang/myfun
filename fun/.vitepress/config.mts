@@ -6,7 +6,7 @@ export default defineConfig({
   title: "威森",
   description: "just for fun",
   themeConfig: {
-    logo: '/img/butterfly-flower.png',
+    logo: '/butterfly-flower.png',
     search: {
       provider: 'local'
     },
