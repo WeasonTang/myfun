@@ -17,15 +17,14 @@ hero:
       text: java algo
       link: /algo/java algo.md
     - theme: alt
-      text: tools
-      link: /cyber/tools.md
+      text: git
+      link: /linux/Git相关命令操作.md
 
 features:
   - title: caterpillar
     icon: 
       src: /caterpillar.png
     details: The caterpillar molts not once, but many times—to outgrow itself, not its past.
-    link: /linux/linux命令
   - icon: 
       src: /cocoon.png
     title: cocoon  
@@ -34,5 +33,6 @@ features:
     icon: 
       src: /butterfly.png
     details: The only way to grow is to embrace discomfort.
+    link: /cyber/tools.md
 ---
 
