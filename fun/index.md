@@ -3,11 +3,14 @@
 layout: home
 
 hero:
-  # name: "weason's fun"
-  text: "just for fun"
+  name: "just for fun"
+  # text: "just for fun"
   # tagline: My great project tagline
+  image:
+    src: /img/bc.png
+
   actions:
-    - theme: brand
+    - theme: alt
       text: Linux基础
       link: /linux/linux命令
     - theme: alt
@@ -19,14 +22,17 @@ hero:
 
 features:
   - title: caterpillar
-    icon: 🐛
+    icon: 
+      src: /img/caterpillar.png
     details: The caterpillar molts not once, but many times—to outgrow itself, not its past.
     link: /linux/linux命令
-  - icon: 🤿
+  - icon: 
+      src: /img/cocoon.png
     title: cocoon  
     details: The cocoon is not a prison—it’s where the caterpillar weaves its courage into colors.
   - title: cocoon-break
-    icon: 🦋
+    icon: 
+      src: /img/butterfly.png
     details: The only way to grow is to embrace discomfort.
 ---
 
