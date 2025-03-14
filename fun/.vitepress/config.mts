@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import './enhanceApp.js' // 引入 enhanceApp.js 文件
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -28,6 +29,7 @@ export default defineConfig({
           { text: 'vscode相关命令', link: '/linux/vscode相关命令.md' },
           { text: 'go linux相关操作', link: '/linux/go linux相关操作.md' },
           { text: 'Git相关命令操作', link: '/linux/Git相关命令操作.md' },
+          { text: 'archlinux_app', link: '/linux/archlinux_app.md' },
         ] 
       },
     ],
@@ -58,6 +60,7 @@ export default defineConfig({
           { text: 'vscode相关命令', link: '/linux/vscode相关命令.md' },
           { text: 'go linux相关操作', link: '/linux/go linux相关操作.md' },
           { text: 'Git相关命令操作', link: '/linux/Git相关命令操作.md' },
+          { text: 'archlinux_app', link: '/linux/archlinux_app.md' },
         ]
       }
     ],
