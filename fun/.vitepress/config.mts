@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import './enhanceApp.js' // 引入 enhanceApp.js 文件
+// import './enhanceApp.js' // 引入 enhanceApp.js 文件
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
