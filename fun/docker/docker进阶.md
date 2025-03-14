@@ -132,7 +132,6 @@ show slave status \G;
 
 Dockerfile是用来构建Docker镜像的文本文件，是由一条条构建镜像所需的指令和参数构成的脚本。
 
-![](./assets/Dockerfile.jpg)
 
  **官网**  https://docs.docker.com/engine/reference/builder/
 
