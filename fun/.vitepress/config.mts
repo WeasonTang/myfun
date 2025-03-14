@@ -17,7 +17,7 @@ export default defineConfig({
       // cyber
       { text: 'cyber',
         items: [
-          { text: 'tools', link: '/cyber/tools.md' },
+          { text: 'web', link: '/cyber/web.md' },
         ]
       },    
       // linux
@@ -47,7 +47,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           
-          { text: 'tools', link: '/cyber/tools.md' },
+          { text: 'web', link: '/cyber/web.md' },
         ]
       },
       {

@@ -11,14 +11,14 @@ hero:
 
   actions:
     - theme: alt
-      text: Linux基础
-      link: /linux/linux命令
-    - theme: alt
       text: java algo
       link: /algo/java algo.md
     - theme: alt
-      text: git
-      link: /linux/Git相关命令操作.md
+      text: web
+      link: /cyber/web.md
+    - theme: alt
+      text: Linux基础
+      link: /linux/linux命令
 
 features:
   - title: caterpillar
