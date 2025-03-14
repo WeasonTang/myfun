@@ -132,6 +132,7 @@ show slave status \G;
 
 Dockerfile是用来构建Docker镜像的文本文件，是由一条条构建镜像所需的指令和参数构成的脚本。
 
+![](./assets/DockerFile.jpg)
 
  **官网**  https://docs.docker.com/engine/reference/builder/
 
@@ -326,7 +327,7 @@ CMD ["/etc/nginx/nginx.conf"] #变参
 
 
 
-![](./assets/Dockerfile保留字指令.jpg)
+![](./assets/dockerfile保留字指令.jpg)
 
 
 
