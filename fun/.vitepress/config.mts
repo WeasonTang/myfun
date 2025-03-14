@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-// import './enhanceApp.js' // 引入 enhanceApp.js 文件
+
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -69,5 +69,21 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/WeasonTang' },
       { icon: 'bilibili', link: 'https://www.bilibili.com/' },
     ]
-  }
+  },
+  
+  head: [
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-RJMPP58S6J' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'G-RJMPP58S6J');`
+    ]
+  ]
 })
