@@ -174,7 +174,7 @@ sudo timeshift --create --btrfs --comments "add flameshot"
 sudo timeshift --list
 ```
 
-![](assets/20240710_192922.png)
+![](./assets/20240710_192922.png)
 
 
 

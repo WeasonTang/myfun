@@ -11,14 +11,20 @@ hero:
 
   actions:
     - theme: alt
-      text: java algo
+      text: algo
       link: /algo/java algo.md
     - theme: alt
       text: web
       link: /cyber/web.md
     - theme: alt
-      text: Linux基础
+      text: Linux
       link: /linux/linux命令
+    - theme: alt
+      text: docker
+      link: /docker/docker_app.md
+    - theme: alt
+      text: go
+      link: /go/goIssues.md
 
 features:
   - title: caterpillar

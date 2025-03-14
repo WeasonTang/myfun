@@ -32,6 +32,25 @@ export default defineConfig({
           { text: 'archlinux_app', link: '/linux/archlinux_app.md' },
         ] 
       },
+      // docker
+      {
+        text: 'docker',
+        items: [
+          { text: 'docker基础', link: '/docker/docker基础.md' },
+          { text: 'docker进阶', link: '/docker/docker进阶.md' },
+          { text: 'docker_app', link: '/docker/docker_app.md' },
+        ]
+      },
+      // go
+      { 
+        text: 'go', 
+        items: [
+          { text: 'go issues', link: '/go/goIssues.md' },
+          { text: 'go algo', link: '/go/goAlgo.md' },          
+          { text: 'go基础', link: '/go/go基础.md' },
+          { text: 'go进阶', link: '/go/go进阶.md' },   
+        ] 
+      },
     ],
 
     sidebar: [
@@ -62,7 +81,29 @@ export default defineConfig({
           { text: 'Git相关命令操作', link: '/linux/Git相关命令操作.md' },
           { text: 'archlinux_app', link: '/linux/archlinux_app.md' },
         ]
-      }
+      },
+      // docker
+      {
+        text: 'docker',
+        collapsed: true,
+        items: [
+          { text: 'docker基础', link: '/docker/docker基础.md' },
+          { text: 'docker进阶', link: '/docker/docker进阶.md' },
+          { text: 'docker_app', link: '/docker/docker_app.md' },
+          { text: 'DevOps_java', link: '/docker/DevOps_java.md' },
+        ]
+      },
+      // go
+      {
+        text: 'go',
+        collapsed: true,
+        items: [
+          { text: 'go issues', link: '/go/goIssues.md' },
+          { text: 'go algo', link: '/go/goAlgo.md' },
+          { text: 'go基础', link: '/go/go基础.md' },
+          { text: 'go进阶', link: '/go/go进阶.md' },
+        ]
+      },
     ],
 
     socialLinks: [
@@ -70,7 +111,10 @@ export default defineConfig({
       { icon: 'bilibili', link: 'https://www.bilibili.com/' },
     ]
   },
-  
+
+
+
+  // google analytics
   head: [
     [
       'script',
@@ -85,5 +129,5 @@ export default defineConfig({
       
       gtag('config', 'G-RJMPP58S6J');`
     ]
-  ]
+  ],
 })
