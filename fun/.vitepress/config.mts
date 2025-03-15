@@ -18,6 +18,7 @@ export default defineConfig({
       // cyber
       { text: 'cyber',
         items: [
+          { text: 'shortcut', link: '/cyber/shortcut.md' },
           { text: 'web', link: '/cyber/web.md' },
         ]
       },    
@@ -66,8 +67,8 @@ export default defineConfig({
       {
         text: 'cyber',
         collapsed: true,
-        items: [
-          
+        items: [   
+          { text: 'shortcut', link: '/cyber/shortcut.md' },
           { text: 'web', link: '/cyber/web.md' },
         ]
       },

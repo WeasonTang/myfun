@@ -15,7 +15,7 @@ hero:
       link: /algo/java algo.md
     - theme: alt
       text: web
-      link: /cyber/web.md
+      link: /cyber/shortcut.md
     - theme: alt
       text: Linux
       link: /linux/linux命令
@@ -35,10 +35,10 @@ features:
       src: /cocoon.png
     title: cocoon  
     details: The cocoon is not a prison—it’s where the caterpillar weaves its courage into colors.
-  - title: cocoon-break
+  - title: butterfly
     icon: 
       src: /butterfly.png
     details: The only way to grow is to embrace discomfort.
-    link: /cyber/tools.md
+    # link: /cyber/tools.md
 ---
 
