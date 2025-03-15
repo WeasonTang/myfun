@@ -14,7 +14,7 @@ hero:
       text: algo
       link: /algo/java algo.md
     - theme: alt
-      text: web
+      text: cyber
       link: /cyber/shortcut.md
     - theme: alt
       text: Linux
