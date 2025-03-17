@@ -1,7 +1,8 @@
 # my experience
 
+## I approve of myself
 
-  That's a powerful statement! "I approve of myself" is more than just a phrase—it’s a foundation for self-compassion, confidence, and authenticity. Here’s why this mindset matters and how to nurture it:
+That's a powerful statement! "I approve of myself" is more than just a phrase—it’s a foundation for self-compassion, confidence, and authenticity. Here’s why this mindset matters and how to nurture it:
 
 ### **Why Self-Approval Matters**  
 1. **Reduces Self-Judgment**: It quietens the inner critic, allowing you to embrace imperfections as part of being human.  
