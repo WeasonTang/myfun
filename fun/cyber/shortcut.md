@@ -15,8 +15,9 @@ Shift+Alt + ↓ / ↑	向上/向下复制行 Copy line up/down
 8.行减少缩进: ctrl + ]
 9.关闭编辑器窗口 : ctrl + w
 10.关闭所有窗口 : ctrl + k + w
-11.回到顶部 ： ctrl + home
-12.回到底部 : ctrl + end
+11.回到顶部： ctrl + home
+12.回到底部: ctrl + end
+13.批量修改：CTRL+Shift+L
 
 
 ```
