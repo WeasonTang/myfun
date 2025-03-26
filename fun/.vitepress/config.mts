@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/myfun/',
+  base: '/',
   title: "威森",
   description: "just for fun",
   themeConfig: {
